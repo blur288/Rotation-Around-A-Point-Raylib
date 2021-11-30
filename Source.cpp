@@ -45,7 +45,7 @@ int main(void)
     // Main game loop
     while (!WindowShouldClose())    // Detect window close button or ESC key
     {
-        Circle InsideCircle(cos(a) / (1/Radius) + CenterX, sin(a) / (1/Radius) + CenterY, 5, BLUE);
+        Circle InsideCircle(cos(a) * Radius + CenterX, sin(a) * Radius + CenterY, 5, BLUE);
 
         BeginDrawing();
 
