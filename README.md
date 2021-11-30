@@ -2,4 +2,5 @@
 ## Demonstration
 ![Rotation](https://cdn.discordapp.com/attachments/915088341190459482/915090063275204638/2021-11-29-19-52-50.gif)
 ## Controls
-A and D to rotate the outer point, Left and Right arrows to increase the radius of the circle
+* A and D to rotate the outer point
+* Left and Right arrows to increase the radius of the circle
